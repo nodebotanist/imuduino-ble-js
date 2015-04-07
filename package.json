@@ -12,5 +12,13 @@
     "IMUduino"
   ],
   "author": "nodebotanist",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^0.3.11"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.10.0"
+  }
 }
